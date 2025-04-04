@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio
 
-Hi, i'm Alfin, a Professional Data Analyst.
+Hi, i'm Umar, a Professional Data Analyst.
 
 This portfolio will inform you about my technical
 skillset, knowledge, certificates, education, projects
@@ -13,5 +13,5 @@ data-related jobs.
 https://www.canva.com/design/DAGK_cQE9W0/QFl7zFKrUJtrUtKsMS6S9g/edit?utm_content=DAGK_cQE9W0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ```
-
+CLICK HEAR (https://www.canva.com/design/DAGK_cQE9W0/QFl7zFKrUJtrUtKsMS6S9g/edit?utm_content=DAGK_cQE9W0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) [1]
  
