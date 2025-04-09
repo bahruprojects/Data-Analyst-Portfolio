@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio
 
-Hi, i'm Umar, a Professional Data Analyst.
+Hi, i'm Umar, a Professional Data Analyst/Product Analyst/Sales Analyst/Business Intelligence Analyst and other related profession.
 
 This portfolio will inform you about my technical
 skillset, knowledge, certificates, education, projects
