@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+<p align="justify"> # Data Analyst Portfolio
 
 Hi, i'm Umar, a Professional Data Analyst/Product Analyst/Sales Analyst/Business Intelligence Analyst and other related profession.
 
@@ -16,3 +16,4 @@ https://bahruprojects.my.canva.site/portfoliouiwebversion
 ```
 [OR CLICK HERE:](https://bahruprojects.my.canva.site/portfoliouiwebversion)
  
+</p>
