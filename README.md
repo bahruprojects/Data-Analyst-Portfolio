@@ -14,6 +14,6 @@ data-related jobs. </p>
 ```
 https://bahruprojects.my.canva.site/portfoliouiwebversion
 ```
-[OR CLICK HERE:](https://bahruprojects.my.canva.site/portfoliouiwebversion)
+[OR CLICK HERE!](https://bahruprojects.my.canva.site/portfoliouiwebversion)
  
 
