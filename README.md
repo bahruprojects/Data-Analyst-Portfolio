@@ -2,7 +2,7 @@
 
 <p align="justify"> Hi, I'm Umar, a Professional Data Analyst and other related profession. </p>
 
-This portfolio will inform you about my technical
+<p align="justify"> This portfolio will inform you about my technical
 skillset, knowledge, certificates, education, projects
 history and variety experience ini the world of Data
 Analyst, Business Analyst, Data Scientist and every
