@@ -12,8 +12,8 @@ data-related jobs. </p>
 #
 ## My Portfolio's:
 ```
-https://bahruprojects.my.canva.site/portfoliouiwebversion
+https://bahruprojects.my.canva.site/
 ```
-[OR CLICK HERE!](https://bahruprojects.my.canva.site/portfoliouiwebversion)
+[OR CLICK HERE!](https://bahruprojects.my.canva.site)
  
 
