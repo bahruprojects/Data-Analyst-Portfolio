@@ -1,6 +1,6 @@
-# Data Analyst Portfolio
+# Data Analyst & Business Intelligence Developer Portfolio
 
-<p align="justify"> Hi, I'm Umar, a Professional Data Analyst and other related profession. </p>
+<p align="justify"> Hi, I'm Umar, a Professional Data Analyst, Business Intelligence and other related profession. </p>
 
 <p align="justify"> This portfolio will inform you about my technical
 skillset, knowledge, certificates, education, projects
@@ -14,6 +14,6 @@ data-related jobs. </p>
 ```
 https://bahruprojects.my.canva.site/
 ```
-[OR CLICK HERE!](https://bahruprojects.my.canva.site)
+[OR CLICK PDF VERSION HERE!](https://www.canva.com/design/DAGK_cQE9W0/QFl7zFKrUJtrUtKsMS6S9g/edit?utm_content=DAGK_cQE9W0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
  
 
