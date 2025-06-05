@@ -1,4 +1,4 @@
-# Data Analyst & Business Intelligence Developer Portfolio
+# Fullstack Data Analytics Specialist & Business Intelligence Developer Portfolio
 
 <p align="justify"> Hi, I'm Umar, a Professional Data Analyst, Business Intelligence and other related profession. </p>
 
