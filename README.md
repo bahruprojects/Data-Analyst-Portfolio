@@ -8,7 +8,7 @@ history and variety experience ini the world of Data
 Analyst, Business Analyst, Data Scientist and every
 data-related jobs. </p>
 
-[Leave me a messages here!](https://script.google.com/macros/s/AKfycbzhCZO57FjOCNJY1RyNV_wGjzlS4Lox42jX4NxywN3pvubrMW4bMKvMxXk3Zt8yDc0_/exec)
+[Please leave me a messages here!](https://script.google.com/macros/s/AKfycbzhCZO57FjOCNJY1RyNV_wGjzlS4Lox42jX4NxywN3pvubrMW4bMKvMxXk3Zt8yDc0_/exec)
 
 # Please click the link below so you can see my Portfolio ⬇
 #
