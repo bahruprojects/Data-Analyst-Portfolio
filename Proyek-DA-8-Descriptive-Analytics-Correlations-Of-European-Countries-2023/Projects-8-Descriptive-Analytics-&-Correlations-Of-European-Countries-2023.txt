@@ -1,0 +1,8 @@
+Dataset : https://www.kaggle.com/datasets/alfinbahru/data-negara-eropa-eropa-2023
+
+Dashboard :
+https://lookerstudio.google.com/reporting/578098e1-a123-4659-a5d3-59e8ec0fe21f
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-8-Descriptive-Analytics-Correlations-Of-European-Countries-2023/Projects-8-Descriptive-Analytics-&-Correlations-Of-European-Countries-2023.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-8-Descriptive-Analytics-Correlations-Of-European-Countries-2023/Projects-8-Descriptive-Analytics-&-Correlations-Of-European-Countries-2023.SQL 
