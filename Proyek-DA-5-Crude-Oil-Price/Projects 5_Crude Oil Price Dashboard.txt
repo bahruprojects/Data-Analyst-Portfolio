@@ -1,0 +1,8 @@
+Dashboard :
+https://lookerstudio.google.com/reporting/fc14f382-6a66-4908-991a-634f1bd8cae8
+
+Dataset : https://www.kaggle.com/datasets/sc231997/crude-oil-price
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-5-Crude-Oil-Price/Projects-5-Crude-Oil-Price.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-5-Crude-Oil-Price/Projects-5-Crude-Oil-Price.SQL
