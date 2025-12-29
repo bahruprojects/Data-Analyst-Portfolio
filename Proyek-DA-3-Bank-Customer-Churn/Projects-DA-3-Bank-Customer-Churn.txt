@@ -2,6 +2,6 @@ Dashboard : https://lookerstudio.google.com/u/0/reporting/d3712ffc-295b-4f27-a4c
 
 Dataset : https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
 
-Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-3-Bank-Customer-Churn\Projects_3_Bank_Customer_Churn.ipynb
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-3-Bank-Customer-Churn/Projects_3_Bank_Customer_Churn.ipynb
 
-SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-3-Bank-Customer-Churn\Projects_3_Bank_Customer_Churn.SQL
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-3-Bank-Customer-Churn/Projects_3_Bank_Customer_Churn.SQL
