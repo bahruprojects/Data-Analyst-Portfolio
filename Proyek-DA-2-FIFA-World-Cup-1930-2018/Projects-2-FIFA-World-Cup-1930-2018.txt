@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/s/qlV3Yv9_dLE
+
+Dataset : https://www.kaggle.com/datasets/abecklas/fifa-world-cup?select=WorldCupPlayers.csv
+
+Python Code : https://github.com/bahruprojects/Proyek-DA-2-FIFA-World-Cup-1930-2018/blob/main/Projects-2-FIFA-World-Cup-1930-2018.ipynb
+
+SQL Code : https://github.com/bahruprojects/Proyek-DA-2-FIFA-World-Cup-1930-2018/blob/main/Projects-2-FIFA-World-Cup-1930-2018.SQL
