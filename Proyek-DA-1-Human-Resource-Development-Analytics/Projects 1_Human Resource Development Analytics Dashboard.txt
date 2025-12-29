@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/c06a8d03-42df-49bb-9bf1-e7b1859c76f5
+
+Dataset : https://docs.google.com/spreadsheets/d/1jDM_XHlRwOs3i8ptzMOoT99kq_k_1IIO8LO8q2HUWjU/edit?usp=sharing
+
+Python Code : https://github.com/bahruprojects/Proyek-DA-1-Belum/blob/main/Projects-1-Human-Resource-Development-Analytics.ipynb
+
+SQL Code : https://github.com/bahruprojects/Proyek-DA-1-Belum/blob/main/Projects-1-Human-Resource-Development-Analytics.SQL
