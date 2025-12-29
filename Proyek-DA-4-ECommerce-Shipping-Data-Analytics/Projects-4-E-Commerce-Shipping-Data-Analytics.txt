@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/0d47a96b-cb0b-4272-9d88-ba6d6eb1d568
+
+Dataset : https://www.kaggle.com/datasets/prachi13/customer-analytics
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-4-ECommerce-Shipping-Data-Analytics/Projects-4-E-Commerce-Shipping-Data-Analytics.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-4-ECommerce-Shipping-Data-Analytics/Projects-4-E-Commerce-Shipping-Data-Analytics.SQL
