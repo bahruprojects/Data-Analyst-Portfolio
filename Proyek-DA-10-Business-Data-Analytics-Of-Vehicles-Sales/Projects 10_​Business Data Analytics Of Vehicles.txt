@@ -1,0 +1,10 @@
+Dashboard :
+https://lookerstudio.google.com/s/kyqn-XY7oJE
+
+Dataset :
+https://www.kaggle.com/datasets/krishanukalita/vehicle-sales-cleaned
+
+Python Code : hhttps://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-10-Business-Data-Analytics-Of-Vehicles-Sales/Projects_10_Business_Data_Analytics_Of_Vehicles_Sales.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-10-Business-Data-Analytics-Of-Vehicles-Sales/Projects_10_Business_Data_Analytics_Of_Vehicles_Sales.SQL"
+
