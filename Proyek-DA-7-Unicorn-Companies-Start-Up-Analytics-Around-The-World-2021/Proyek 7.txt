@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/08272ca5-7018-4188-bcbe-076a5961f080
+
+Dataset : https://www.kaggle.com/datasets/niekvanderzwaag/unicorn-startups-cleaned
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-7-Unicorn-Companies-Start-Up-Analytics-Around-The-World-2021/Projects_7_Unicorn_Companies_&_Start-Up_Analytics_Around_The_World_2021.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-7-Unicorn-Companies-Start-Up-Analytics-Around-The-World-2021/Projects_7_Unicorn_Companies_&_Start-Up_Analytics_Around_The_World_2021.SQL
