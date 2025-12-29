@@ -1,0 +1,8 @@
+Dashboard : https://lookerstudio.google.com/s/nOXMppE3abs
+
+Dataset :
+https://www.kaggle.com/datasets/kkhandekar/sugar-world-production-consumption-and-trade
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-9-Global-Sugar-Consumption-And-Production-2021/Projects-9-Global-Sugar-Consumption-&-Production-2021.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-9-Global-Sugar-Consumption-And-Production-2021\Projects-9-Global-Sugar-Consumption-And-Production-2021.SQL
