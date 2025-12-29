@@ -1,0 +1,8 @@
+Dashboard :
+https://lookerstudio.google.com/s/jEOdd_yG3K4
+
+Dataset : https://www.kaggle.com/datasets/nanditapore/credit-risk-analysis
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-6-Credit-Risk-Analyst/Projects-6-Credit-Risk-Analyst.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-6-Credit-Risk-Analyst/Projects-6-Credit-Risk-Analyst.SQL
