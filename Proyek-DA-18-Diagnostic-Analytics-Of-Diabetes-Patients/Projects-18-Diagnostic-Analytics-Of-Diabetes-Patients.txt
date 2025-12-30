@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/02606494-5433-4ca7-b47c-dd6cb00854a4
+
+Dataset : https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-18-Diagnostic-Analytics-Of-Diabetes-Patients/Projects-18-Diagnostic-Analytics-Of-Diabetes-Patients.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-18-Diagnostic-Analytics-Of-Diabetes-Patients/Projects-18-Diagnostic-Analytics-Of-Diabetes-Patients.SQL
