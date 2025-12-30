@@ -4,4 +4,4 @@ Dataset : https://www.kaggle.com/datasets/ihelon/coffee-sales
 
 Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-17-Vending-Machine-Coffee-Sales-Analytics/Projects-17-Vending-Machine-Coffee-Sales-Analytics.ipynb
 
-SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-17-Vending-Machine-Coffee-Sales-Analytics/Projects-17-Vending-Machine-Coffee-Sales-Analytics.SQL"
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-17-Vending-Machine-Coffee-Sales-Analytics/Projects-17-Vending-Machine-Coffee-Sales-Analytics.SQL
