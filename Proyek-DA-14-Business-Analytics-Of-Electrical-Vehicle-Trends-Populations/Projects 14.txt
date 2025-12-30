@@ -1,0 +1,8 @@
+Dashboard : https://lookerstudio.google.com/s/n1h5K1mIe0I
+
+Dataset :
+https://www.kaggle.com/datasets/rajkumarpandey02/electric-vehicle-population-data
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-14-Business-Analytics-Of-Electrical-Vehicle-Trends-Populations/Projects_14_Business_Analytics_Of_Electrical_Vehicle_Trends__Populations.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-14-Business-Analytics-Of-Electrical-Vehicle-Trends-Populations/Projects_14_Business_Analytics_Of_Electrical_Vehicle_Trends__Populations.SQL
