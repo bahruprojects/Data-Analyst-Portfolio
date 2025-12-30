@@ -1,0 +1,9 @@
+Dashboard :
+https://lookerstudio.google.com/reporting/bb5eecec-1de4-41b0-85e3-2de465c50342
+
+Dataset :
+https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-19-Pharmaceutical-Mothly-Drug-Profits-Analytics/Projects-19-Pharmaceutical-Mothly-Drug-Profits-Analytics.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-19-Pharmaceutical-Mothly-Drug-Profits-Analytics/Projects-19-Pharmaceutical-Mothly-Drug-Profits-Analytics.SQL
