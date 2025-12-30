@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/4690eb86-b33a-4bc1-9c2b-127157b84508
+
+Dataset : https://www.kaggle.com/datasets/ihelon/coffee-sales
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-17-Vending-Machine-Coffee-Sales-Analytics/Projects-17-Vending-Machine-Coffee-Sales-Analytics.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-17-Vending-Machine-Coffee-Sales-Analytics/Projects-17-Vending-Machine-Coffee-Sales-Analytics.SQL"
