@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/s/nfLVmQZvr78
+
+Dataset : https://www.kaggle.com/datasets/heitornunes/caffeine-content-of-drinks
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-13-Caffeine-Contents-Of-Drinks-Analytics/Projects-13-Caffeine-Contents-Of-Drinks-Analytics.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-13-Caffeine-Contents-Of-Drinks-Analytics/Projects-13-Caffeine-Contents-Of-Drinks-Analytics.SQL
