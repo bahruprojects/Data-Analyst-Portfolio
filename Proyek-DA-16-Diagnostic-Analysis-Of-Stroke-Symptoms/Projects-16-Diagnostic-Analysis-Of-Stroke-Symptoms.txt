@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/9c6697b6-a6c9-47c3-a51b-1bfb93a5c77e
+
+Dataset : https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-16-Diagnostic-Analysis-Of-Stroke-Symptoms/Projects-16-Diagnostic-Analysis-Of-Stroke-Symptoms.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-16-Diagnostic-Analysis-Of-Stroke-Symptoms/Projects-16-Diagnostic-Analysis-Of-Stroke-Symptoms.SQL"
