@@ -4,5 +4,5 @@ Dataset : https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset
 
 Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-16-Diagnostic-Analysis-Of-Stroke-Symptoms/Projects-16-Diagnostic-Analysis-Of-Stroke-Symptoms.ipynb
 
-
 SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-16-Diagnostic-Analysis-Of-Stroke-Symptoms/Projects-16-Diagnostic-Analysis-Of-Stroke-Symptoms.SQL
+
