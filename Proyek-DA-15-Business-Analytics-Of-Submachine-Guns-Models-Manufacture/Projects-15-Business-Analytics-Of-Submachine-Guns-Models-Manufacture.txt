@@ -4,4 +4,5 @@ Dataset : https://www.kaggle.com/datasets/thedevastator/the-world-s-most-compreh
 
 Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-15-Business-Analytics-Of-Submachine-Guns-Models-Manufacture/Projects-15-Business-Analytics-Of-Submachine-Guns-Models-Manufacture.ipynb
 
-SQL Code : hhttps://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-15-Business-Analytics-Of-Submachine-Guns-Models-Manufacture/Projects-15-Business-Analytics-Of-Submachine-Guns-Models-Manufacture.SQL
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-15-Business-Analytics-Of-Submachine-Guns-Models-Manufacture/Projects-15-Business-Analytics-Of-Submachine-Guns-Models-Manufacture.SQL
