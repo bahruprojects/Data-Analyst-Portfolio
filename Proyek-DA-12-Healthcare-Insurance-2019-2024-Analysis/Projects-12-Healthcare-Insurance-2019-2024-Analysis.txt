@@ -4,6 +4,6 @@ https://lookerstudio.google.com/reporting/a2a6581f-c98d-4dad-be41-5fc8b02f7a7c
 Dataset : 
 https://www.kaggle.com/datasets/prasad22/healthcare-dataset
 
-Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-12-Healthcare-Insurance-2019-2024-Analysis/Projects-12-Healthcare-Insurance-2019-2024-Analysis.ipynb"
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-12-Healthcare-Insurance-2019-2024-Analysis/Projects-12-Healthcare-Insurance-2019-2024-Analysis.ipynb
 
 SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-12-Healthcare-Insurance-2019-2024-Analysis/Projects-12-Healthcare-Insurance-2019-2024-Analysis.SQL
