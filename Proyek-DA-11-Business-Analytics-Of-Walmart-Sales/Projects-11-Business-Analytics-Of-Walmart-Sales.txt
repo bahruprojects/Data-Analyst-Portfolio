@@ -1,0 +1,8 @@
+Dashboard : https://lookerstudio.google.com/s/pXp75ZpyMXk
+
+Dataset :
+https://www.kaggle.com/datasets/mikhail1681/walmart-sales
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-11-Business-Analytics-Of-Walmart-Sales/Projects-11-Business-Analytics-Of-Walmart-Sales.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-11-Business-Analytics-Of-Walmart-Sales/Projects-11-Business-Analytics-Of-Walmart-Sales.SQL
