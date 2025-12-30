@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/fb7f2c22-e186-4ecb-b271-83c7c5d38cba
+
+Dataset : https://www.kaggle.com/datasets/thedevastator/the-world-s-most-comprehensive-list-of-submachin
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-15-Business-Analytics-Of-Submachine-Guns-Models-Manufacture/Projects-15-Business-Analytics-Of-Submachine-Guns-Models-Manufacture.ipynb
+
+SQL Code : hhttps://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-15-Business-Analytics-Of-Submachine-Guns-Models-Manufacture/Projects-15-Business-Analytics-Of-Submachine-Guns-Models-Manufacture.SQL
