@@ -1,0 +1,7 @@
+Dashboard : https://public.tableau.com/app/profile/alfin.bahru.rahmika.umar/viz/Project3_Jobssalariesdashboard/Dashboard1
+
+Dataset : https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-36-Jobs-Salaries-Analytics/Project-36-Jobs-Salaries-Analytics.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-36-Jobs-Salaries-Analytics/Project-36-Jobs-Salaries-Analytics.SQL
