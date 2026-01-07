@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/da77a7ee-0b26-4257-b181-a06dae577aac
+
+Dataset : https://www.kaggle.com/datasets/mysarahmadbhat/alcohol-consumption
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-29-Global-Alcohol-Consumptions-Analysis-2010/Projects-29-Global-Alcohol-Consumptions-Analysis-2010.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-29-Global-Alcohol-Consumptions-Analysis-2010/Projects-29-Global-Alcohol-Consumptions-Analysis-2010.SQL
