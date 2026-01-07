@@ -1,0 +1,7 @@
+Dashboard : https://public.tableau.com/app/profile/alfin.bahru.rahmika.umar/viz/Project1_IndonesiaCovid-19Reports2020-2022/DashboardCovid-19
+
+Dataset : https://www.kaggle.com/datasets/hendratno/covid19-indonesia
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-34-Indonesia-Covid-19-Cases-Reports-2020-2022/Project-34-Indonesia-Covid-19-Cases-Reports-2020-2022.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-34-Indonesia-Covid-19-Cases-Reports-2020-2022/Project-34-Indonesia-Covid-19-Cases-Reports-2020-2022.SQL
