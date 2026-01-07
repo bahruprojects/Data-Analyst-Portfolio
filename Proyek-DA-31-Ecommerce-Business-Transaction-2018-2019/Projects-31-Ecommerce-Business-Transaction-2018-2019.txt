@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/0b263d8d-4902-4ce0-9ae6-676de49f7a62
+ 
+Dataset : https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-31-Ecommerce-Business-Transaction-2018-2019/Projects-31-Ecommerce-Business-Transaction-2018-2019.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-31-Ecommerce-Business-Transaction-2018-2019/Projects-31-Ecommerce-Business-Transaction-2018-2019.SQL
