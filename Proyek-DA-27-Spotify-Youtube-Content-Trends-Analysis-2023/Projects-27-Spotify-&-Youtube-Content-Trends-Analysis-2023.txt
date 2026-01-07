@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/109ee37c-6901-46e5-a71e-cdb7d5affd3f
+
+Dataset : https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-27-Spotify-Youtube-Content-Trends-Analysis-2023/Projects-27-Spotify-&-Youtube-Content-Trends-Analysis-2023.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-27-Spotify-Youtube-Content-Trends-Analysis-2023/Projects-27-Spotify-&-Youtube-Content-Trends-Analysis-2023.SQL
