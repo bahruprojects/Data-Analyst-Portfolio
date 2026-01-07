@@ -1,0 +1,9 @@
+Dashboard :
+https://lookerstudio.google.com/reporting/d7a22911-ea50-4209-8baa-a65e2c85d838
+
+Dataset :
+https://www.kaggle.com/datasets/mirichoi0218/insurance
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-26-Medical-Cost-Insurance-Analysis/Projects-26-Medical-Cost-Insurance-Analysis.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-26-Medical-Cost-Insurance-Analysis/Projects-26-Medical-Cost-Insurance-Analysis.SQL
