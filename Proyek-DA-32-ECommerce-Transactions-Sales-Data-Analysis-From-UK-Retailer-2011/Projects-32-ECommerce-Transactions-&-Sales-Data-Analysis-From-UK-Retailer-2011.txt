@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/bcbe056b-cc8a-4b9f-a83e-601a3f48559b
+
+Dataset : https://www.kaggle.com/datasets/carrie1/ecommerce-data
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-32-ECommerce-Transactions-Sales-Data-Analysis-From-UK-Retailer-2011/Projects-32-ECommerce-Transactions-&-Sales-Data-Analysis-From-UK-Retailer-2011.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-32-ECommerce-Transactions-Sales-Data-Analysis-From-UK-Retailer-2011/Projects-32-ECommerce-Transactions-&-Sales-Data-Analysis-From-UK-Retailer-2011.SQL
