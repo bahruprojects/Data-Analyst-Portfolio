@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/6d304ea7-4b86-4f7d-8411-c06570c5775b
+
+Dataset : https://www.kaggle.com/datasets/muhammadgusanwaakbar/traveloka-hotel-list-jakarta
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-23-Traveloka-Web-Scrapping-Hotels-Analysis/Projects-23-Traveloka-Web-Scrapping-&-Hotels-Analysis.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-23-Traveloka-Web-Scrapping-Hotels-Analysis/Projects-23-Traveloka-Web-Scrapping-&-Hotels-Analysis.SQL
