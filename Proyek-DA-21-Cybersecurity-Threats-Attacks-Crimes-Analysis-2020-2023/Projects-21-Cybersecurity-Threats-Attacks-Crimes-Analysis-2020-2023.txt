@@ -1,0 +1,8 @@
+Dashboard : https://lookerstudio.google.com/reporting/1ebf9a8e-e866-4092-8f50-45cfc451572e
+
+Dataset :
+https://www.kaggle.com/datasets/saadatkhalid/cyber-security-attacks-cleaned
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-21-Cybersecurity-Threats-Attacks-Crimes-Analysis-2020-2023/Projects-21-Cybersecurity-Threats-Attacks-Crimes-Analysis-2020-2023.ipynb
+
+SQL Query : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-21-Cybersecurity-Threats-Attacks-Crimes-Analysis-2020-2023/Projects-21-Cybersecurity-Threats-Attacks-Crimes-Analysis-2020-2023.SQL
