@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/0b0e3c68-8e17-4a7f-b139-2aced561487b
+
+Dataset : https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-28-ECommerce-Clothings-Sales-Reviews-Analysis/Projects-28-E-Commerce-Clothings-Sales-Reviews-Analysis.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-28-ECommerce-Clothings-Sales-Reviews-Analysis/Projects-28-E-Commerce-Clothings-Sales-Reviews-Analysis.SQL
