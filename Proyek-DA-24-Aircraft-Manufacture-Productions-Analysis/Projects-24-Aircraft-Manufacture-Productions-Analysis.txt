@@ -1,0 +1,8 @@
+Dashboard : https://lookerstudio.google.com/reporting/6d3a0cee-7882-44bf-a860-d0e62c156e1d
+
+Dataset :
+https://www.kaggle.com/datasets/alvaroibrain/aircraft-production-data
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-24-Aircraft-Manufacture-Productions-Analysis/Projects-24-Aircraft-Manufacture-Productions-Analysis.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-24-Aircraft-Manufacture-Productions-Analysis/Projects-24-Aircraft-Manufacture-Productions-Analysis.SQL
