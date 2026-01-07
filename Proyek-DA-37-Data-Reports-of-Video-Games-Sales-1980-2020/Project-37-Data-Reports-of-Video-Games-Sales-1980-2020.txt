@@ -1,0 +1,7 @@
+Dashboard: https://public.tableau.com/app/profile/alfin.bahru.rahmika.umar/viz/Project4_DataReportsofVideoGamesSales1980-2020/Dashboard1?publish=yes
+
+Dataset: https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-37-Data-Reports-of-Video-Games-Sales-1980-2020/Project-37-Data-Reports-of-Video-Games-Sales-1980-2020.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-37-Data-Reports-of-Video-Games-Sales-1980-2020/Project-37-Data-Reports-of-Video-Games-Sales-1980-2020.SQL
