@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/094027f3-7f78-42c3-8304-680f51f84e24
+
+Dataset : https://www.kaggle.com/datasets/akashdeepkuila/bakery
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-25-Bakery-Transactional-Sales-Analysis/Projects-25-Bakery-Transactional-Sales-Analysis.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-25-Bakery-Transactional-Sales-Analysis/Projects-25-Bakery-Transactional-Sales-Analysis.SQL
