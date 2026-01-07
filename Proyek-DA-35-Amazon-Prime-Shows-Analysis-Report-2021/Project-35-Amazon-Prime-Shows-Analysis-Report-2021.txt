@@ -1,0 +1,7 @@
+Dashboard : https://public.tableau.com/app/profile/alfin.bahru.rahmika.umar/viz/Project2_AmazonPrimeShowsAnalysisReport2021/AnalisisAcaraAmazonPrime?publish=yes
+
+Dataset : https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-35-Amazon-Prime-Shows-Analysis-Report-2021/Project-35-Amazon-Prime-Shows-Analysis-Report-2021.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-35-Amazon-Prime-Shows-Analysis-Report-2021/Project-35-Amazon-Prime-Shows-Analysis-Report-2021.SQL
