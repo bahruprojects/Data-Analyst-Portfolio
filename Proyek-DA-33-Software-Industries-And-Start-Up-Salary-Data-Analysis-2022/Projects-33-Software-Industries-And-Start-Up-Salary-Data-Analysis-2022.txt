@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/7a1505c9-08ad-4c02-a977-7454c81603ac
+
+Dataset : https://www.kaggle.com/datasets/iamsouravbanerjee/software-professional-salaries-2022?select=Software_Professional_Salaries.csv
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-33-Software-Industries-And-Start-Up-Salary-Data-Analysis-2022/Projects-33-Software-Industries-And-Start-Up-Salary-Data-Analysis-2022.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-33-Software-Industries-And-Start-Up-Salary-Data-Analysis-2022/Projects-33-Software-Industries-And-Start-Up-Salary-Data-Analysis-2022.SQL
