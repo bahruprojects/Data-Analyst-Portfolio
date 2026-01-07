@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/c4b76bba-d61f-46d6-be51-e903ca8e61d6
+
+Dataset : https://www.kaggle.com/datasets/michals22/coffee-dataset
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-30-World-Coffee-Production-1990-2020-/Projects-30-World-Coffee-Production-(1990-2020).ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-30-World-Coffee-Production-1990-2020/Projects-30-World-Coffee-Production-(1990-2020).SQL
