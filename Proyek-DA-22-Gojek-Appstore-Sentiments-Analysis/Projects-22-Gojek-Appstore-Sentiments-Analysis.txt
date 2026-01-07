@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/34782978-05dd-4b17-8dfc-4ebad5ecb092
+
+Dataset : https://www.kaggle.com/datasets/imamsatrio/app-store-gojek-reviews
+
+Python Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-22-Gojek-Appstore-Sentiments-Analysis/Projects-22-Gojek-Appstore-Sentiments-Analysis.ipynb
+
+SQL Code : https://github.com/bahruprojects/Data-Analyst-Portfolio/blob/main/Proyek-DA-22-Gojek-Appstore-Sentiments-Analysis/Projects-22-Gojek-Appstore-Sentiments-Analysis.SQL
